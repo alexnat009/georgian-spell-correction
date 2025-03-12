@@ -20,8 +20,6 @@ A probabilistic Georgian spell checker that suggests the most likely correction 
 
 ## Usage
 ```python
-from spell_checker import correction
-
 word = "სწვავე"
 print(correction(word))  # Outputs the most likely correction
 ```
